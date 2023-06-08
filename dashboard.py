@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 
 # Logo "Prêt à dépenser"
     
-#image = Image.open('img/logo.png')
-#st.sidebar.image(image, width=150)
+image = Image.open('img/logo.PNG')
+st.sidebar.image(image, width=150)
 # Glossaire des features utilisées:
 
 
